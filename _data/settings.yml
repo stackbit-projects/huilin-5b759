@@ -20,6 +20,15 @@ people:
     office: Science Building 505
     image: assets/img/primary-investigator.jpg
     url: primary-investigator
+  - name: lorem-ipsum
+    title: lorem-ipsum
+    department: lorem-ipsum
+    institution: lorem-ipsum
+    institution_address: lorem-ipsum
+    phone: lorem-ipsum
+    email: lorem-ipsum
+    office: lorem-ipsum
+    url: lorem-ipsum
   - name: Lab Technician
     title: Researcher
     department: Physics & Astronomy

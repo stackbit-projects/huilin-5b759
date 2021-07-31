@@ -1,7 +1,7 @@
 menu:
   - name: Home
     url: /people
-  - name: publications
+  - name: Research
     url: /publications
   - name: courses
     url: /courses
